@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Chris Madison
 
-I'm an AWS cloud architect and back-end engineer located near the South Mountain in North Carolina. I stay connected to the web via Starlink.
+I'm an AWS cloud architect and back-end engineer in Charlotte, North Carolina. 
 
-I've worked remotely for 20+ years with my career mostly centeredon NYC and Austin, TX. Needless to say, I've traveled often to those cities and enjoy both.
+I've worked remotely for 20+ years with my career mostly centered on NYC and Austin, TX. Needless to say, I've traveled often to those cities and enjoy both.
 
 ### Connect with me:
 
