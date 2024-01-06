@@ -2,7 +2,7 @@
 
 I'm an AWS cloud architect and back-end engineer in Charlotte, North Carolina. 
 
-I am the EVP of Engineering and Information Security at ![Everyrealm](https://everyrealm.com).
+I am the EVP of Engineering and Information Security at [![Everyrealm]](https://everyrealm.com).
 
 I've worked remotely for 20+ years with my career mostly centered on NYC and Austin, TX. Needless to say, I've traveled often to those cities and enjoy both.
 
