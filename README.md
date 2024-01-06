@@ -6,6 +6,14 @@ I am the EVP of Engineering and Information Security at <a href="http://everyrea
 
 I've worked remotely for 20+ years with my career mostly centered on NYC and Austin, TX. Needless to say, I've traveled often to those cities and enjoy both.
 
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tankcdr&show_icons=true&theme=radical)
+
+## Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankcdr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmmadison)
