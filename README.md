@@ -1,50 +1,43 @@
-## 👋 Hey, I'm Chris Madison
+# 👋 Welcome to My GitHub
 
-I'm an AWS cloud architect and back-end engineer in Charlotte, North Carolina. 
+## About Me
 
-I am the EVP of Engineering and Information Security at <a href="http://everyrealm.com/" target="_blank">Everyrealm</a>.
+I'm Chris Madison, a seasoned technology leader specializing in **AI, blockchain, cloud architectures, and software engineering**. With a proven track record of driving innovation, scaling distributed teams, and aligning technical initiatives to strategic business objectives, I aim to create lasting impact through technology.
 
-I've worked remotely for 20+ years with my career mostly centered on NYC and Austin, TX. Needless to say, I've traveled often to those cities and enjoy both.
+I've contributed to building scalable systems, driving agile transformations, and managing multi-organization engineering collaborations. My work spans across diverse industries, including healthcare, finance, and blockchain ecosystems.
 
+---
+## 🌟 Highlights of My Work
 
-### Connect with me:
+- **Engineering Leadership**: Spearheaded agile transformations and enhanced team accountability across distributed teams at [Interchain Foundation](https://interchain.io), [Everyrealm](https://everyrealm.com), and others.
+- **AI Applications**: Designed AI-driven patient care workflows for cognitive behavioral therapy (CBT-I) at a health-tech startup.
+- **Patented Innovations**: Inventor with patents in cognitive computing systems.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmmadison)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmadison68@gmail.com)
+---
+## 📚 Skills and Expertise
 
-### Tech Stack:
+### Programming
+- **Languages**: Go, TypeScript, Solidity, Java, Python, Rust
+- **Frameworks**: Node.js, Next.js, OpenZeppelin
 
-#### Languages
+### Cloud and DevOps
+- **Platforms**: AWS, Azure, Vercel
+- **Tools**: Terraform, Docker, GitHub Actions, CI/CD Pipelines
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Blockchain
+- **Ecosystems**: Ethereum, Cardano, Cosmos, Substrate (Polkadot), Solana
+- **Technologies**: Smart Contracts, Decentralized Identity
 
-#### Cloud
+### Tools and Practices
+- Agile Development, Architecture Design, CI/CD Pipelines, Security Compliance
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
+## 🌍 Let's Connect
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+- 📫 [Email](mailto:cmadison68@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cmmadison)
 
-#### Crypto
+---
+## 💻 Current Focus
 
-![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-#### Tools and Platforms
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![OpenZepplin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-#### IDEs and Editors
-
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+I'm exploring scalable distributed systems, low-latency computing, and cutting-edge applications in AI and blockchain. Always eager to collaborate on meaningful open-source projects and groundbreaking technology initiatives.
