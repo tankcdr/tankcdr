@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Chris Madison, a seasoned technology leader specializing in **blockchain, AI, cloud architectures, and software engineering**. With a proven track record of driving innovation, scaling distributed teams, and aligning technical initiatives to strategic business objectives, I aim to create lasting impact through technology.
+I'm Chris Madison, a seasoned technology leader specializing in **blockchain, AI, cloud architectures, and software engineering**. With a proven track record of driving innovation, scaling distributed teams, and aligning technical initiatives to strategic business objectives, I aim to create lasting impact through technology. Currently, I am the CTO at [Everyrealm](https://everyrealm.com).
 
 I've contributed to building scalable systems, driving agile transformations, and managing multi-organization engineering collaborations. My work spans across diverse industries, including healthcare, finance, and blockchain ecosystems.
 
