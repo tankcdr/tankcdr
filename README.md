@@ -13,7 +13,6 @@
 
 🔐 **[trstlyr.ai](https://github.com/tankcdr/aegis)** — Trust scoring system for AI agents combining Web2 and Web3 signals. Built for the Synthesis hackathon; exploring it as sustainable public infrastructure.
 
-⚛️ **Interstice Digital** — ETH↔Canton Network swap infrastructure using HTLC atomic swaps. Making cross-chain interoperability real, not theoretical.
 
 🤖 **Application Intelligence** — Transforming traditional QA into AI-powered UX feedback systems. Moving beyond test generation toward understanding *how users actually experience software*.
 
