@@ -5,7 +5,7 @@
 20+ years scaling engineering organizations from 5 to 120+ engineers across blockchain, healthcare, and enterprise. 12 AI/ML patents. Currently building trust infrastructure for AI agents and cross-chain swap protocols.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cmmadison-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cmmadison)
-[![Email](https://img.shields.io/badge/Email-cmadison68@gmail.com-EA4335?style=flat&logo=gmail)](mailto:cmadison68@longrunadvisory.com)
+[![Email](https://img.shields.io/badge/Email-cmadison@longrunadvidory.com-EA4335?style=flat&logo=gmail)](mailto:cmadison@longrunadvisory.com)
 
 ---
 
