@@ -56,10 +56,6 @@
 
 **Healthcare:** FHIR · HL7 · Epic/Cerner integrations · HIPAA compliance
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tankcdr&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tankcdr&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
