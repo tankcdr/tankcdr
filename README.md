@@ -14,7 +14,7 @@ Hands-on fractional CTO for teams that need to ship again. 20+ years scaling eng
 
 🔐 **[conditional-holding-lock](https://github.com/tankcdr/conditional-holding-lock)** - Apache-2.0 reference implementation of a Canton Network Token Standard CIP. Interface package and TestTokenV2 adapter with executable proofs of byte-domain hashing, persistent receiver authorization, one-step locking, and atomic two-registry settlement.
 
-✍️ **[erc-spend-grants](https://github.com/tankcdr/erc-spend-grants)** - Draft ERC for portable spend grants. One EIP-712 signature lets a delegate spend native currency and ERC-20s under per-call, rolling-window, and lifetime caps. Includes a Solidity reference registry, TypeScript hashing and rendering, golden vectors, and an ERC-7730 display descriptor, with a registry deployed on Arc testnet.
+✍️ **[erc-spend-grants](https://github.com/tankcdr/erc-spend-grants)** - ERC-8427 for portable spend grants. One EIP-712 signature lets a delegate spend native currency and ERC-20s under per-call, rolling-window, and lifetime caps. Includes a Solidity reference registry, TypeScript hashing and rendering, golden vectors, and an ERC-7730 display descriptor, with a registry deployed on Arc testnet.
 
 🤖 **Application Intelligence** - Transforming traditional QA into AI-powered UX feedback. Moving beyond test generation toward understanding *how users actually experience software*.
 
@@ -23,7 +23,7 @@ Hands-on fractional CTO for teams that need to ship again. 20+ years scaling eng
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [conditional-holding-lock](https://github.com/tankcdr/conditional-holding-lock) | Canton Token Standard reference for Conditional Holding Lock: CIP interfaces, TestTokenV2 adapter, and executable proofs | Daml · Solidity · Rust |
-| [erc-spend-grants](https://github.com/tankcdr/erc-spend-grants) | Draft ERC for signed spend grants: one signature for native and ERC-20 spends under per-call, rolling, and lifetime caps | Solidity · TypeScript |
+| [erc-spend-grants](https://github.com/tankcdr/erc-spend-grants) | ERC-8427 for signed spend grants: one signature for native and ERC-20 spends under per-call, rolling, and lifetime caps | Solidity · TypeScript |
 | [clawsino](https://github.com/tankcdr/clawsino) | Agent-native casino on Base with x402 payments and provably fair games | TypeScript · Solidity · Python |
 | [solana-defi-indexer-rs](https://github.com/tankcdr/solana-defi-indexer-rs) | Indexes Solana DEX swap and liquidity events from Orca and Raydium | Rust · PostgreSQL |
 | [didcomm_soldid_resolver_rs](https://github.com/tankcdr/didcomm_soldid_resolver_rs) | DIDComm resolver for Solana DIDs | Rust |
