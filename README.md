@@ -45,7 +45,7 @@ Hands-on fractional CTO for teams that need to ship again. 20+ years scaling eng
 
 **Equideum Health** - CTO/COO. HIPAA-compliant blockchain infrastructure for health data.
 
-**IBM** - 16 years. Scaled WebSphere product engineering globally. Origin of 10 granted AI/ML patents.
+**IBM** - 16 years. Architected and implemented a WebSphere product. Origin of 10 granted AI/ML patents.
 
 ## Tech I Reach For
 
